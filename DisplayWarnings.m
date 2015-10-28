@@ -7,6 +7,8 @@ function DisplayWarnings(warnings)
 % @author Tamás Virosztek, Budapest University of Technology and Economics,
 %         Department of Measurement and Infromation Systems,
 %         Virosztek.Tamas@mit.bme.hu
+%
+
 
 
 
